@@ -152,7 +152,7 @@ if (isset($_GET['ticket']) and isset($_GET['dives']))
 Vm0wd2Qy  
 Vm0wd2QyUXk=
 
-На нашем примере видно, что это то, что надо и просто нужно найти нужно значение
+В нашем случае это то, что надо и просто нужно найти нужно значение
 
 ![](https://github.com/texh0k0t/writeups/blob/master/3DSCTF/Sharknado/images/5.png)
 
